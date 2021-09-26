@@ -1,4 +1,4 @@
-### Hey friend, I'm Felipe! 
+### Hi there!, I'm Felipe! 
 
 I'm an industrial engineer turned software engineer currently living in Santiago, Chile.
 
