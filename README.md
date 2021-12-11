@@ -1,5 +1,5 @@
 ### Hi there! I'm Felipe
 
-I'm an industrial engineer turned software engineer currently living in Santiago, Chile.
+I'm a software engineer based in Vancouver, BC.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferueda&layout=compact&theme=nightowl&hide=html)
